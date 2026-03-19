@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "base_track": "「私の最後の日」",
+  "base_artist": "YOURNESS",
+  "createdAt": "2026-03-19T13:45:52.125749Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "「私の最後の日」",
+      "artist": "yourness",
+      "has_synced": true,
+      "path": "select/01_「私の最後の日」_yourness.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "「私の最後の日」 - \"My last day\"",
+      "artist": "yourness",
+      "has_synced": true,
+      "path": "select/02_「私の最後の日」_-__My_last_day_yourness.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "「私の最後の日」",
+      "artist": "ユアネス",
+      "has_synced": true,
+      "path": "select/03_「私の最後の日」_ユアネス.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "「私の最後の日」",
+      "artist": "YOURNESS",
+      "has_synced": true,
+      "path": "select/localdb_01_「私の最後の日」_YOURNESS.lrc",
+      "repo_name": "iP3PcDNhJXI"
+    }
+  ]
+}
